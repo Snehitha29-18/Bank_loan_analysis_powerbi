@@ -1,7 +1,7 @@
 
 
 # 📊 Bank Loan Analysis Dashboard – Power BI
-![image alt]()
+![image alt](https://github.com/Snehitha29-18/Bank_loan_analysis_powerbi/blob/01de3f7455aa67f42215e2f538ac208cba6bfa08/bank_loan_poster.jpg)
 
 ### Interactive Financial Loan Performance, Risk Segmentation & Insights
 
